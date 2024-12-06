@@ -1,4 +1,5 @@
-## Hi there 👋
+## hello there :]
+new to programming but hoping to learn. have a bug -> 🐛
 
 <!--
 **chrysis37/chrysis37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
